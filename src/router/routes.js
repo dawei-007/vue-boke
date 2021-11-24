@@ -15,14 +15,6 @@ export default [
     },
   },
   {
-    name: "Home",
-    path: "/index.html",
-    component: Home,
-    meta: {
-      title: "首页",
-    },
-  },
-  {
     name: "About",
     path: "/about",
     component: About,
